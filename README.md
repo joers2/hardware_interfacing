@@ -32,12 +32,21 @@ https://github.com/joers2/hardware_interfacing/assets/150683529/1bcc7cc8-a5d4-4f
 # Opdracht 3
 *Benodigdheden*
 
+- 2 Led's
+- 1 Knop
+
 *Schematische opstelling*
+
+![Schermafbeelding 2024-05-27 120242](https://github.com/joers2/hardware_interfacing/assets/150683529/2f7d7492-8372-4d4c-a9cb-a7864a15af15)
 
 *Demo*
 
+https://github.com/joers2/hardware_interfacing/assets/150683529/d4754704-2b14-471e-b416-e79c72e1115c
+
 # Opdracht 4
 *Benodigdheden*
+- 6 Led's
+- Potmeter
 
 *Schematische opstelling*
 
