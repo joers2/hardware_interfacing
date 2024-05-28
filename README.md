@@ -13,8 +13,7 @@ Periode 4, systeem.
 
 *Demo*
 
-https://github.com/joers2/hardware_interfacing/assets/150683529/c0a73948-69ed-4d7b-9a79-131656cac4ef
-
+https://github.com/joers2/hardware_interfacing/assets/150683529/274b5885-be82-4452-9507-4897bb8d35f4
 
 # Opdracht 2
 *Benodigdheden*
@@ -27,13 +26,13 @@ https://github.com/joers2/hardware_interfacing/assets/150683529/c0a73948-69ed-4d
 
 *Demo*
 
-https://github.com/joers2/hardware_interfacing/assets/150683529/1bcc7cc8-a5d4-4fe5-bedd-d1afd0b2a240
+https://github.com/joers2/hardware_interfacing/assets/150683529/b00159c1-f57b-4a87-b56a-42708d0b0c7f
 
 # Opdracht 3
 *Benodigdheden*
 
 - 2 Led's
-- 1 Knop
+- 1 Drukknop
 
 *Schematische opstelling*
 
@@ -45,21 +44,31 @@ https://github.com/joers2/hardware_interfacing/assets/150683529/d4754704-2b14-47
 
 # Opdracht 4
 *Benodigdheden*
+
 - 6 Led's
 - Potmeter
 
 *Schematische opstelling*
 
+![Schermafbeelding 2024-05-28 121117](https://github.com/joers2/hardware_interfacing/assets/150683529/8e45b607-3fb3-472a-8e4a-17730affcbef)
+
 *Demo*
+
+https://github.com/joers2/hardware_interfacing/assets/150683529/a3942acd-675b-4ef2-a221-62431a3f3686
 
 # Opdracht 5
 *Benodigdheden*
+
+- 2 Drukknoppen
+- Servomotor
 
 *Schematische opstelling*
 
 *Demo*
 # Opdracht 6
 *Benodigdheden*
+- l2C LCD-scherm
+- 2 Drukknoppen
 
 *Schematische opstelling*
 
