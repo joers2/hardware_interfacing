@@ -16,6 +16,7 @@ Periode 4, systeem.
 https://github.com/joers2/hardware_interfacing/assets/150683529/274b5885-be82-4452-9507-4897bb8d35f4
 
 # Opdracht 2
+
 *Benodigdheden*
 
 - 8 Led's
@@ -29,6 +30,7 @@ https://github.com/joers2/hardware_interfacing/assets/150683529/274b5885-be82-44
 https://github.com/joers2/hardware_interfacing/assets/150683529/b00159c1-f57b-4a87-b56a-42708d0b0c7f
 
 # Opdracht 3
+
 *Benodigdheden*
 
 - 2 Led's
@@ -43,6 +45,7 @@ https://github.com/joers2/hardware_interfacing/assets/150683529/b00159c1-f57b-4a
 https://github.com/joers2/hardware_interfacing/assets/150683529/d4754704-2b14-471e-b416-e79c72e1115c
 
 # Opdracht 4
+
 *Benodigdheden*
 
 - 6 Led's
@@ -57,6 +60,7 @@ https://github.com/joers2/hardware_interfacing/assets/150683529/d4754704-2b14-47
 https://github.com/joers2/hardware_interfacing/assets/150683529/a3942acd-675b-4ef2-a221-62431a3f3686
 
 # Opdracht 5
+
 *Benodigdheden*
 
 - 2 Drukknoppen
@@ -64,10 +68,15 @@ https://github.com/joers2/hardware_interfacing/assets/150683529/a3942acd-675b-4e
 
 *Schematische opstelling*
 
+![Schermafbeelding 2024-05-28 135828](https://github.com/joers2/hardware_interfacing/assets/150683529/66e7e255-d9e8-4369-ac28-8de261c5eb2f)
+
 *Demo*
+
+https://github.com/joers2/hardware_interfacing/assets/150683529/15be0420-7059-4b2f-b97b-cf00991a5009
+
 # Opdracht 6
 *Benodigdheden*
-- l2C LCD-scherm
+- I2C LCD-scherm
 - 2 Drukknoppen
 
 *Schematische opstelling*
